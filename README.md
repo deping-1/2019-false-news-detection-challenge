@@ -12,11 +12,17 @@ https://www.biendata.com/competition/falsenews/
 
 # 运行环境
 numpy
+
 pickle
+
 scikit-learn
+
 PyTorch 1.0
+
 matplotlib
+
 pandas
+
 pytorch_transformers=1.1.0
 
 # 如何使用代码
